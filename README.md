@@ -26,7 +26,7 @@ Then launch from localhost:3000 in the browser.
 
 # Screenshot
 
-!
+![table](https://github.com/carooflee/React-Table/blob/master/screenshot.png)
 
 # Heroku Page
    
