@@ -3,7 +3,7 @@
 
 ## React Employee Table
 
-A sortable, filterable table created with React.
+A sortable, filterable table created with React. For extra fun, this is a table of famous trans individuals color-coded with the trans pride flag.
 
 # User Story
 
