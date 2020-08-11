@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/carooflee/React-Table.git/static/css/main.6afa7f81.chunk.css",
+    "main.js": "/carooflee/React-Table.git/static/js/main.fb2fd7bb.chunk.js",
+    "main.js.map": "/carooflee/React-Table.git/static/js/main.fb2fd7bb.chunk.js.map",
+    "runtime-main.js": "/carooflee/React-Table.git/static/js/runtime-main.b0108b86.js",
+    "runtime-main.js.map": "/carooflee/React-Table.git/static/js/runtime-main.b0108b86.js.map",
+    "static/js/2.5fba4f2c.chunk.js": "/carooflee/React-Table.git/static/js/2.5fba4f2c.chunk.js",
+    "static/js/2.5fba4f2c.chunk.js.map": "/carooflee/React-Table.git/static/js/2.5fba4f2c.chunk.js.map",
+    "index.html": "/carooflee/React-Table.git/index.html",
+    "precache-manifest.8e7e8f4e6afe207af6420e7a82a96210.js": "/carooflee/React-Table.git/precache-manifest.8e7e8f4e6afe207af6420e7a82a96210.js",
+    "service-worker.js": "/carooflee/React-Table.git/service-worker.js",
+    "static/css/main.6afa7f81.chunk.css.map": "/carooflee/React-Table.git/static/css/main.6afa7f81.chunk.css.map",
+    "static/js/2.5fba4f2c.chunk.js.LICENSE.txt": "/carooflee/React-Table.git/static/js/2.5fba4f2c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b0108b86.js",
+    "static/js/2.5fba4f2c.chunk.js",
+    "static/css/main.6afa7f81.chunk.css",
+    "static/js/main.fb2fd7bb.chunk.js"
+  ]
+}
