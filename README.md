@@ -28,9 +28,9 @@ Then launch from localhost:3000 in the browser.
 
 ![table](https://github.com/carooflee/React-Table/blob/master/screenshot.png)
 
-# Heroku Page
+# Deployed Link
    
- 
+ https://carooflee.github.io/React-Table/
     
 # Usage
 
